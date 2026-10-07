@@ -1,0 +1,14 @@
+C:\projects_dotnetcloud\CastTheDice\bin\Debug\net10.0\CastTheDice.exe
+C:\projects_dotnetcloud\CastTheDice\bin\Debug\net10.0\CastTheDice.deps.json
+C:\projects_dotnetcloud\CastTheDice\bin\Debug\net10.0\CastTheDice.runtimeconfig.json
+C:\projects_dotnetcloud\CastTheDice\bin\Debug\net10.0\CastTheDice.dll
+C:\projects_dotnetcloud\CastTheDice\bin\Debug\net10.0\CastTheDice.pdb
+C:\projects_dotnetcloud\CastTheDice\obj\Debug\net10.0\CastTheDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects_dotnetcloud\CastTheDice\obj\Debug\net10.0\CastTheDice.AssemblyInfoInputs.cache
+C:\projects_dotnetcloud\CastTheDice\obj\Debug\net10.0\CastTheDice.AssemblyInfo.cs
+C:\projects_dotnetcloud\CastTheDice\obj\Debug\net10.0\CastTheDice.csproj.CoreCompileInputs.cache
+C:\projects_dotnetcloud\CastTheDice\obj\Debug\net10.0\CastTheDice.dll
+C:\projects_dotnetcloud\CastTheDice\obj\Debug\net10.0\refint\CastTheDice.dll
+C:\projects_dotnetcloud\CastTheDice\obj\Debug\net10.0\CastTheDice.pdb
+C:\projects_dotnetcloud\CastTheDice\obj\Debug\net10.0\CastTheDice.genruntimeconfig.cache
+C:\projects_dotnetcloud\CastTheDice\obj\Debug\net10.0\ref\CastTheDice.dll
